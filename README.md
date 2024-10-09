@@ -4,6 +4,7 @@ Implementation of Pseudorandom Number Generation Using Standard library
 
 ## ALGORITHM:
 1.Start the program and import the required libraries.
+
 2.Seed the random number generator using the current time (i.e) rand(time(0));
 3.Get the number of random numbers to generate.
 4.Pass the value for number of iterations and print the numbers.
@@ -40,5 +41,5 @@ int main()
 ![Screenshot (112)](https://github.com/user-attachments/assets/c8d36404-293c-4845-9652-1c2266192138)
 
 
-RESULT:
+## RESULT:
 The Implementation of Pseudorandom Number Generation Using Standard library is successful.
